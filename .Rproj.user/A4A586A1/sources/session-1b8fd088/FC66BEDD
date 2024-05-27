@@ -3,7 +3,7 @@
     "path": "~/phd_files_all/website/personal_website/theme.css",
     "project_path": "theme.css",
     "type": "css",
-    "hash": "0",
+    "hash": "2660551090",
     "contents": "",
     "dirty": false,
     "created": 1716813999182.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "46,26",
-        "scrollLine": "35"
+        "cursorPosition": "32,45",
+        "scrollLine": "5"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716814046,
+    "lastKnownWriteTime": 1716816647,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716814046741,
+    "last_content_update": 1716816647655,
     "read_only": false,
     "read_only_alternatives": []
 }
