@@ -5,6 +5,13 @@ description: |
 site: distill::distill_website
 
 image: "images/photo.png"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/maohua-nie-390b4329a/"
+  - label: GitHub
+    url: "https://github.com/MaohuaNie"
+  - label: Email
+    url: "mailto:maohua.nie@unibas.ch"
 output:
   postcards::jolla
 ---
