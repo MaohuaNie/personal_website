@@ -1,0 +1,23 @@
+---
+title: "Maohua Nie"
+description: |
+  PhD student in Economic Psychology
+site: distill::distill_website
+
+image: "images/photo.png"
+output:
+  postcards::jolla
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(postcards)
+
+```
+
+
+
+My name is Maohua Nie, a PhD student in Economic Psychology at the University of Basel.
+
+
+

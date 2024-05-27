@@ -1,0 +1,84 @@
+---
+title: "Maohua Nie"
+description: |
+  PhD student in Economic Psychology
+site: distill::distill_website
+csl: apa.csl
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+
+
+
+
+# **Research Interests**
+
+My research interests are mainly decison making under risk, especially under the effect of different factors like choice complexity.
+
+# Previous Research Projects
+
+Here are the previous projects I had:
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; /* Light horizontal line under each row for better separation */
+  }
+  th {
+    background-color: #f0f0f0; /* Light grey background for column headers */
+  }
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>Time</th>
+      <th>Location</th>
+      <th>Supervisor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>The Impact of Choice Complexity on Decision Making Under Risk</td>
+      <td>2023–Present</td>
+      <td>University of Basel</td>
+      <td>Prof. Joerg Rieskamp</td>
+    </tr>
+    <tr>
+      <td>The impact of loss aversion on suspense and willingness to further engagement</td>
+      <td>Summer 2022</td>
+      <td>University of Edinburgh</td>
+      <td>Neil Bramley</td>
+    </tr>
+    <tr>
+      <td>The Influence of Confidence and Importance on Curiosity</td>
+      <td>Summer 2021</td>
+      <td>University of Freiburg</td>
+      <td>Prof. Dr. Andrea Kiesel</td>
+    </tr>
+    <tr>
+      <td>Effects of Mental Effort and Boredom on Task Choice</td>
+      <td>Winter 2020</td>
+      <td>University of Freiburg</td>
+      <td>Markus Spitzer</td>
+    </tr>
+  </tbody>
+</table>

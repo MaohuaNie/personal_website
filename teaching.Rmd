@@ -1,0 +1,34 @@
+---
+title: "Maohua Nie"
+description: |
+  PhD student in Economic Psychology
+site: distill::distill_website
+csl: apa.csl
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+
+
+
+
+# **Teaching **
+
+- **FS 2024, University of Basel, Department of Psychology**
+  - Project seminar
+    - Supervision on two student groups
+
+- **HS 2023, University of Basel, Department of Psychology**
+  - Project seminar
+    - Supervision on two student groups

@@ -1,0 +1,33 @@
+---
+title: "Maohua Nie"
+description: |
+  PhD student in Economic Psychology
+site: distill::distill_website
+
+csl: apa.csl
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+
+
+
+
+# **Publication list**
+
+
+
+Spitzer, M. W. H., Janz, J., **Nie, M.**, & Kiesel, A. (2024). On the interplay of curiosity, confidence, and importance in knowing information. *Psychological Research*, 88(1), 101–115. https://doi.org/10.1007/s00426-023-01841-9
+
+

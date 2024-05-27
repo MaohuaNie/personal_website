@@ -1,0 +1,11 @@
+"0","bib_file <- ""Exported Items.bib"""
+"0","csl_file <- ""apa.csl"""
+"0","bib_command <- paste(""pandoc"", bib_file,"
+"0","                     ""--csl"", csl_file,"
+"0","                     ""--filter pandoc-citeproc"","
+"0","                     ""-t html"")"
+"0","bib_output <- system(bib_command, intern = TRUE)"
+"2","sh: pandoc: command not found
+"
+"2","Error in system(bib_command, intern = TRUE) : error in running command
+"

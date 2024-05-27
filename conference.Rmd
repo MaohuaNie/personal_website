@@ -1,0 +1,40 @@
+---
+title: "Maohua Nie"
+description: |
+  PhD student in Economic Psychology
+site: distill::distill_website
+csl: apa.csl
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+
+
+
+
+# **Conference **
+
+- **July 2024**
+  - MathPsych/ICCM 2024
+    - Talk: Analyzing the Impact of Choice Complexity on Risky Choices
+
+    
+    
+# **Summer School **
+
+- **July 2024**
+  - Cognitive Foundations of Decision-Making
+
+- **August 2023**
+  - International Interdisciplinary Computational Cognitive Science Summer School
