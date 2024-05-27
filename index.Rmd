@@ -3,11 +3,13 @@ title: "Maohua Nie"
 description: |
   PhD student in Economic Psychology
 site: distill::distill_website
-
 image: "images/photo.png"
 output:
   postcards::jolla
-
+editor_options: 
+  markdown: 
+    wrap: 72
+bibliography: references.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -16,26 +18,16 @@ library(postcards)
 
 ```
 
+My name is Maohua Nie, a PhD student in Economic Psychology at the
+University of Basel. 
 
 
-My name is Maohua Nie, a PhD student in Economic Psychology at the University of Basel.
+<a href="https://www.linkedin.com/in/maohua-nie-390b4329a/" target="_blank">
+<i class="fab fa-linkedin"></i> LinkedIn </a> <br>
 
+<a href="https://github.com/MaohuaNie" target="_blank">
+<i class="fab fa-github"></i> GitHub </a> <br>
 
-<div class="icon-links">
-  <a href="https://www.linkedin.com/in/maohua-nie-390b4329a/" target="_blank">
-    <i class="fab fa-linkedin"></i>
-    <span>LinkedIn</span>
-  </a>
-  <br>
+<a href="mailto:maohua.nie@unibas.ch" target="_blank">
+<i class="fas fa-envelope"></i> Email </a>
 
-  <a href="https://github.com/MaohuaNie" target="_blank">
-    <i class="fab fa-github"></i>
-    <span>GitHub</span>
-  </a>
-  <br>
-
-  <a href="mailto:maohua.nie@unibas.ch" target="_blank">
-    <i class="fas fa-envelope"></i>
-    <span>Email</span>
-  </a>
-</div>
